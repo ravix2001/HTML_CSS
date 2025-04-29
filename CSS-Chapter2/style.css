@@ -1,0 +1,17 @@
+#div1{
+    background-color: rgba(0, 256, 0, 0.8);
+}
+#div2{
+    background-color: rgba(0, 0, 256, 0.5);
+}
+#div3{
+    background-color: rgba(256, 0, 0, 0.8);
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding:25px;
+    /*display: inline;      //margin won't be used so bad approach*/
+    display: inline-block;
+}

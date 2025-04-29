@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    height:60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+    color :white;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+/*#box{                       //id selector
+    background-color: blue;
+    color:aliceblue;
+}
+.heading{                   //class selector
+    color:red;
+}
+h1{
+    text-align: center;
+    text-decoration: rgb(25, 243, 25) underline;
+    text-transform: capitalize;
+}
+h2{
+    /text-decoration: overline;
+    text-decoration: line-through;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+button{
+    background-color:rgb(25, 243, 25);
+    color:white;
+    border-color:blue;
+    border-width: 4px;
+    border-style:solid;
+    border-radius: 8px;
+}
+p{
+    font-family: 'Times New Roman';
+    text-align: center;     //default:left
+    font-size: 18px;
+}
+
+#outer{
+    height: 100px;
+    background-color: aqua;
+    font-size: 30px;
+}
+#inner{
+    height:40px;
+    width: 100px;;
+    background-color: bisque;
+    font-size: 20px;
+    border:3px dashed purple;   //border shorthand
+    border-radius: 15%;
+}
+.myClass{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    //border-radius: 50%;
+    //padding-left:25px;
+    padding-top:25px;
+    padding:25px;       //padding shorthand padding from all side
+    //padding:10px 15px 20px 25px;      //unequal from different sides 
+    
+    margin:25px;
+}*/

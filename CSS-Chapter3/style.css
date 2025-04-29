@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+header{
+    height:60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}
+.contentBox{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    display: inline-block;
+}
+footer{
+    background-color:#0f1111;
+    text-align: center;
+}
+#content{
+    height: 537px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: aqua;
+    color: black;
+}
+#box1{
+    position: fixed;
+    top: 120px;
+    z-index: 1;
+    background-image: url("neom-va9218QJFAk-unsplash.jpg");
+    background-size: cover;
+}
+#box2{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+p{
+    color: black
+}
